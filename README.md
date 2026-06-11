@@ -5,3 +5,4 @@
 - Những phần tham khảo AI :
 - Khó khăn gặp phải :
 - Link live web (github pages) :
+https://hoanganh2007-07.github.io/251CTT011_ThanHuyHoangAnh_ThiTKWebsite/
